@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GuardBird</string>
+    <string name="title_section1">Master Device</string>
+    <string name="title_section2">Slave Device</string>
+    <string name="title_section3">Options</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="toggle_device_button">Press to connect/disconnect to the device</string>
+    <string name="toggle_slave_device">Press to activate/disconnect slave device</string>
+    <string name="list_bt_devices">List nearby bluetooth devices</string>
+
+</resources>
